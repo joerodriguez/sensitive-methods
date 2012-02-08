@@ -1,0 +1,1 @@
+require 'sensitive_methods'
