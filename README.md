@@ -1,4 +1,6 @@
-= Sensitive Methods
+Sensitive Methods
+=================
+
 Ruby gem for warning developers when they may be accessing sensitive data.
 
     class Person < ActiveRecord::Base
